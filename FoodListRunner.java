@@ -1,0 +1,54 @@
+public class FoodListRunner{
+  public static void main(String[] args){
+    String name="biriyani";
+    FoodList.details(name);
+    name="parota";
+    FoodList.details(name);
+    name="Idli";
+    FoodList.details(name);
+    name="Dosa";
+    FoodList.details(name);
+    name="Pongal";
+    FoodList.details(name);
+    name="Vada";
+    FoodList.details(name);
+    name="Chapathi";
+    FoodList.details(name);
+    name="Poori";
+    FoodList.details(name);
+    name="Pulao";
+    FoodList.details(name);
+    name="Upma";
+    FoodList.details(name);
+    name="Sambar";
+    FoodList.details(name);
+    name="Rasam";
+    FoodList.details(name);
+    name="Curd_rice";
+    FoodList.details(name);
+    name="Lemon_rice";
+    FoodList.details(name);
+    name="TamotoRice";
+    FoodList.details(name);
+    name="FishCurry";
+    FoodList.details(name);
+    name="ChickenFry";
+    FoodList.details(name);
+    name="MuttonCurry";
+    FoodList.details(name);
+    name="Paneer";
+    FoodList.details(name);
+    name="CholeBhature";
+    FoodList.details(name);
+    name="Samosa";
+    FoodList.details(name);
+    name="PavBhaji";
+    FoodList.details(name);
+    name="Panipuri";
+    FoodList.details(name);
+    name="Dhokla";
+    FoodList.details(name);
+    name="jalebi";
+    FoodList.details(name);
+  }
+}
